@@ -1,5 +1,1 @@
-# deneme 
-
-## alt bilgi
-hgphkjhjilk
-[google.com]
+sen beni 
